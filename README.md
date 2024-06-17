@@ -19,7 +19,7 @@
 - ⚡ Fun Facts
   - Biotech Engineer turned into Web Developer.
   - As a kid, I wanted to be an Cricketer.
-  - I love playing chess.
+  - I love playing chess and Cricket.
 <br><br>
 <h3 align="left">Connect Me:</h3>
 <p align="left">
